@@ -2,7 +2,7 @@ set -tmpdir synth/xst/tmp
 set -xsthdpdir synth/xst
 run
 -ifn ef3.prj
--ifmt vhdl
+-ifmt mixed
 -ofn synth/ef3.ngc
 -ofmt NGC
 -p xc9500xl

@@ -1,0 +1,9 @@
+_impactbatch.log
+_xmsgs/
+*.jed
+*.lso
+*.svf
+*.prj
+log/
+synth/
+tmperr.err

@@ -2,34 +2,27 @@
 
 ## Introduction
 
-This ist the EasyFlash 3 CPLD Firmware.
+This is the EasyFlash 3 CPLD Core. It is used to configure the CPLD
+to define the behavior of the hardware.
 
-(C) Thomas 'skoe' Giesel
+## Website, Repository and Issue Tracker
 
-The official repository is located at https://gitlab.com/easyflash/easyflash3-core/.
-Look at https://gitlab.com/easyflash/ for other EasyFlash related repositories.
+EasyFlash website: https://skoe.de/easyflash/
 
-Older versions and the history can be found at https://bitbucket.org/skoe/easyflash/.
+Official repository and issue tracker:
+https://gitlab.com/easyflash/easyflash3-core/.
+
+Other EasyFlash related repositories:
+https://gitlab.com/easyflash/
+
+Source repository mirror:
+https://github.com/easyflash-mirror/easyflash3-core/.
 
 ## License
 
-```
--- This software is provided 'as-is', without any express or implied
--- warranty.  In no event will the authors be held liable for any damages
--- arising from the use of this software.
---
--- Permission is granted to anyone to use this software for any purpose,
--- including commercial applications, and to alter it and redistribute it
--- freely, subject to the following restrictions:
---
--- 1. The origin of this software must not be misrepresented; you must not
---    claim that you wrote the original software. If you use this software
---    in a product, an acknowledgment in the product documentation would be
---    appreciated but is not required.
--- 2. Altered source versions must be plainly marked as such, and must not be
---    misrepresented as being the original software.
--- 3. This notice may not be removed or altered from any source distribution.
-```
+(C) Thomas 'skoe' Giesel
+
+Refer to [LICENSE.md](./LICENSE.md).
 
 ## Changes
 
